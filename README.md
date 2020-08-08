@@ -19,6 +19,8 @@ There's is training data of 43 rental agreements available. I could have trained
 
 From BERT QA model answer is accurate for paragraph if related data for question is present for the paragraph bit if it's not I am getting some random answer with good confidence scores, to handle these types of situation some regex can be done
 
+Multiple questions could have been asked for single field
+
 
 ### ML Techniques
 * Text Extraction
