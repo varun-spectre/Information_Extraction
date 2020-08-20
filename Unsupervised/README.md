@@ -15,7 +15,6 @@ Since spacy is good with dates we can let spacy handle the Agreement_Start_Date,
 
 
 ## What else could have tried and what could have done better
-There's is training data of 43 rental agreements available. I could have trained the Spacy custom NER model on that data.
 
 From BERT QA model answer is accurate for paragraph if related data for question is present for the paragraph bit if it's not I am getting some random answer with good confidence scores, to handle these types of situation some regex can be done
 
