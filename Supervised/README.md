@@ -10,6 +10,7 @@ the form of PDFs to perform the extraction.
 
 ## Solution Approach
 
+Look into Custom_NER.ipynb for results
 We have to extract 6 fields from the document Agreement_value, Renewal_Notice, Party_One, Party_Two, Agreement_Start_Date, Agreement_End_Date.
 We shall use Spacy Custom NER model for training, due to lack of time I have done only for one field the same process goes for rest 5 fileds. 
 
